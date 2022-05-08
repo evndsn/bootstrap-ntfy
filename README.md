@@ -8,6 +8,7 @@ To reproduce run the following commands:
 
 ```bash
 git clone https://github.com/evndsn/bootstrap-ntfy.git bootstrap-ntfy
+cd bootstrap-ntfy
 yarn install
 yarn dev
 ```
