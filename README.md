@@ -1,7 +1,8 @@
 This project present a example of creating notification using toast by react-bootstrap.
 
-[![Demo CountPages alpha](https://github.com/evndsn/bootstrap-ntfy/blob/main/public/demo.gif)](https://github.com/evndsn/bootstrap-ntfy/blob/main/public/demo.mp4)
-
+ <p align="center">
+    [![Project Demo](https://github.com/evndsn/bootstrap-ntfy/blob/main/public/demo.gif)](https://github.com/evndsn/bootstrap-ntfy/blob/main/public/demo.mp4)
+ </p>
 
 ## Getting Started
 
