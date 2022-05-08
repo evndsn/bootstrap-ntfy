@@ -1,4 +1,4 @@
-This project present a example of creating notification using toast by react-bootstrap.
+This project present an example of creating notification using toast by react-bootstrap.
 
  [![Project Demo](https://github.com/evndsn/bootstrap-ntfy/blob/main/public/demo.gif)](https://github.com/evndsn/bootstrap-ntfy/blob/main/public/demo.mp4)
 
