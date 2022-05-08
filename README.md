@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+[![Demo CountPages alpha](https://github.com/evndsn/bootstrap-ntfy/blob/main/public/demo.gif)](https://github.com/evndsn/bootstrap-ntfy/blob/main/public/demo.mp4)
+
+
 ## Getting Started
 
 First, run the development server:
